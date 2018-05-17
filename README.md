@@ -15,7 +15,7 @@ NetHook API 对战平台内核库目前为免费版本，但用于商业用途�
 # 最新进展
 
 ```
-2012-11-09：发布Ver3.7版本，主要增加服务端安全性及若干界面软件小问题， 
+2012-11-09：发布Ver3.7版本，主要增加服务端安全性及若干界面软件小问题。
 2012-03-16：发布Ver3.6版本，主要增加游戏内置公告、聊天表情、彻底解决掉线问题
 2012-01-01：发布Ver3.5版本，主要修复皮肤导致死机和增加服务端稳定性，发布NetEngineDLL.dll通用模块
 2011-04-28：发布Ver3.4版本，主要修复客户端断线、增加好友及更换皮肤
@@ -24,4 +24,19 @@ NetHook API 对战平台内核库目前为免费版本，但用于商业用途�
 2011-01-18：发布Ver3.1版本，主要增加对魔兽争霸的相关优化
 2011-01-10：发布Ver3.0版本，全新改版，支持多房间，SQLSERVER数据库(注意：完全不兼容以前版本)
 ```
+
+# 更新日志
+
+[Update3.x](./docs/Update3.x.txt "Update3")
+
+# 文件下载
+
+[NetHookAPI及Demo](./package/NetHookApi.rar "NetHookApi")     
+
+校园版下载
+[Ver3.7客户端](./package/NetHookClient3.7.rar "NetHookClient3.7") 
+
+[Ver3.7服务端](./package/NetHookServer3.7.rar "NetHookServer3.7")
+
+[Ver3.4客户端源代码](./package/Source3.4.rar "Source3.4")
 
