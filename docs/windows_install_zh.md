@@ -39,3 +39,5 @@ NetServerPort_0=25000（同上）
 ![Client-0](./_static/img/Client-0.png )
 
 ![Client-3](./_static/img/Client-3.png )
+
+![Client-4](./_static/img/Client-4.png )
