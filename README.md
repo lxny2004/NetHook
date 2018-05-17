@@ -48,3 +48,25 @@ NetHook API 对战平台内核库目前为免费版本，但用于商业用途�
 # FAQ
 
 [常见问题](./docs/faq.md "faq")
+
+# 软件截图
+
+服务端截图
+
+[server-0.png](./docs/_static/img/server-0.png )
+[server-1.png](./docs/_static/img/server-1.png )
+[server-2.png](./docs/_static/img/server-2.png )
+[server-3.png](./docs/_static/img/server-3.png )
+[server-4.png](./docs/_static/img/server-4.png )
+[server-5.png](./docs/_static/img/server-5.png )
+[server-6.png](./docs/_static/img/server-6.png )
+[server-7.png](./docs/_static/img/server-7.png )
+
+客户端截图
+
+[Client-0.png](./docs/_static/img/Client-0.png )
+[Client-1.png](./docs/_static/img/Client-1.png )
+[Client-2.png](./docs/_static/img/Client-2.png )
+[Client-3.png](./docs/_static/img/Client-3.png )
+[Client-4.png](./docs/_static/img/Client-4.png )
+
