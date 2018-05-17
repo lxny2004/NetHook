@@ -49,6 +49,7 @@ NetHook API 对战平台内核库目前为免费版本，但用于商业用途�
 
 [客户端自动更新](./docs/script_zh.md "script")
 
+[服务端分布式](./docs/Distributed_zh.md "Distributed")
 # FAQ
 
 [常见问题](./docs/faq.md "faq")
