@@ -45,6 +45,8 @@ NetHook API 对战平台内核库目前为免费版本，但用于商业用途�
 
 [windows部署教程](./docs/windows_install_zh.md "windows_install")
 
+[平台接入discuz](./docs/mysql_discuz_zh.md "mysql_discuz")
+
 # FAQ
 
 [常见问题](./docs/faq.md "faq")
