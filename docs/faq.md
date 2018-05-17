@@ -1,4 +1,4 @@
-![logo](./docs/_static/img/logo.png "logo")
+![logo](./_static/img/logo.png "logo")
 
 # 常见问题
 ```
