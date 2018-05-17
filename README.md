@@ -41,6 +41,10 @@ NetHook API 对战平台内核库目前为免费版本，但用于商业用途�
 
 [Ver3.4客户端源代码](./package/Source3.4.rar "Source3.4")
 
+更多下载
+
+[Download](http://www.net963.com/Download/)
+
 # windows 主机假设教程
 
 [windows部署教程](./docs/windows_install_zh.md "windows_install")
