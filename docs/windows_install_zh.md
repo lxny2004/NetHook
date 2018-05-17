@@ -4,15 +4,15 @@
 
 2. 解压 “NetHookServer3.7.rar” 服务端文件夹，打开 “NetHookServer.exe” 。
 
-![file](./docs/_static/img/file.png )
+![file](./_static/img/file.png )
 
-![NetHookServer](./docs/_static/img/server-0.png )
+![NetHookServer](./_static/img/server-0.png )
 
 3. 确认本机IP地址192.168.2.101
 
 # 客户端链接
 
-![NetHookClient](./docs/_static/img/Client.png )
+![NetHookClient](./_static/img/Client.png )
 
 找该文件夹下的 “config.txt” 文件打开
 编辑如下字段：
@@ -30,12 +30,12 @@ NetServerPort_0=25000（同上）
 
 或搜索同局域网
 
-![Client-1](./docs/_static/img/Client-1.png )
+![Client-1](./_static/img/Client-1.png )
 
 第一的登录平台的 将会是最高权限！超级管理员
 
-![Client-2](./docs/_static/img/Client-2.png )
+![Client-2](./_static/img/Client-2.png )
 
-![Client-0](./docs/_static/img/Client-0.png )
+![Client-0](./_static/img/Client-0.png )
 
-![Client-3](./docs/_static/img/Client-3.png )
+![Client-3](./_static/img/Client-3.png )
