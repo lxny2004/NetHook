@@ -105,6 +105,33 @@ LevelID         LevelName        OnlineTime
 14        主席        141120
 ```
 
+# 客户端动态广告设置
+
+```
+#Banner广告总数
+MainBanner.Count=3
+#广告跳转时间默认单位ss
+MainBanner.Interval=10
+#第一个广告图片地址
+MainBanner.Url.0=http://192.168.2.101/Banner1.gif
+#相应的第一个广告的url外部链接
+MainBanner.Link.0=https://www.baidu.com/
+#第二个广告图片
+MainBanner.Url.1=http://192.168.2.101/Banner2.gif
+#第二个广告链接
+MainBanner.Link.1=https://www.sohu.com/
+MainBanner.Url.2=http://192.168.2.101/Banner3.gif
+MainBanner.Link.2=http://www.sina.com.cn/
+
+#退出logout广告同理。
+LogOut.Count=0
+LogOut.Interval=0
+LogOut.Url.0=
+LogOut.Link.0=
+LogOut.Url.1=
+LogOut.Link.1=
+```
+
 # FAQ
 
 [常见问题](./docs/faq.md "faq")
