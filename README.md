@@ -160,3 +160,7 @@ LogOut.Link.1=
 # 联系方式
 
 * QQ群：222670265  作者QQ:12286195
+
+# 如果可以帮到你什么忙，欢迎打赏~
+## wechat(微信)
+![winxin_pay.png](https://github.com/TelDragon/guacamole/blob/master/docs/_static/img/weixin_pay.png?raw=true)
